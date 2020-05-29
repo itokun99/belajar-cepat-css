@@ -17,9 +17,9 @@ Berikut ini beberapa daftar jalur belajar yang ada pada modul ini:
 4. Mengenal dan cara menrapkan Selector CSS
 5. CSS untuk mengubah warna, gaya huruf, dan ukuran
 6. CSS untuk membuat layout (`margin`, `padding`, `display`, `position`, dll)
-7. Mengenal Flexbox (CSS Modern)
-8. Mengenal Responsive Design
-9. Membuat halaman web yang menarik dengan HTML dan CSS
-10. Mem-publish website kita ke Internet.
+7. Mengenal Sekilas tentang Flexbox (CSS Modern)
+8. Mengenal Responsive Design (Media query)
+9. Mengenal animasi di css
+10. Membuat halaman web yang menarik dengan HTML dan CSS
 
 Baik seperti itulah yang ada dalam modul Belajar Cepat CSS ini. Aku selaku yang buat repo ini mengucapkan terimakasih sudah mampir, membaca, mengikuti dan memberi feedback untuk modul ini. Dan semoga apa yang aku bagikan bisa bermanfaat :blush:
